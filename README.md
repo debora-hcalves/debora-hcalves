@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debora-hcalves&show_icons=true&locale=en&layout=compact" alt="debora-hcalves" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debora-hcalves&show_icons=true&locale=en" alt="debora-hcalves" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debora-hcalves&show_icons=true&locale=en" alt="debora-hcalves" /></p>   
