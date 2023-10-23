@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Debora Alves</h1>
+<h1 align="center">👋 Hi, I'm Debora Alves! </h1>
 <h3 align="center">A passionate analytics engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debora-hcalves&label=Profile%20views&color=0e75b6&style=flat" alt="debora-hcalves" /> </p>
 
 - 🔭 I’m currently working at **Indicium Tech**
-
+- 👀 I'm interested in **Data Analysis** and **Analytics Engineering**
+- 🌱 Currently studying **SQL** and **Python**
+- 📚 Bachelor of **Mechanical Engineering**
 - 📫 How to reach me **deboradeholanda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
